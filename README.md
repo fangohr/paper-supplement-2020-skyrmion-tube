@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fangohr/paper-supplement-2020-skyrmion-tube/master)
+
 # paper-supplement-2020-skyrmion-tube
 Material to supplement manuscript "Real-space imaging of confined magnetic skyrmion tubes"
 
@@ -5,3 +7,5 @@ Material to supplement manuscript "Real-space imaging of confined magnetic skyrm
 
 
 https://mybinder.org/v2/gh/fangohr/paper-supplement-2020-skyrmion-tube/master
+
+
